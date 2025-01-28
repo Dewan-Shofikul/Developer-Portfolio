@@ -41,3 +41,28 @@ body {
 .reverse {
     flex-direction: row-reverse;
 }
+/* Experince Section */
+.experiance-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+#full-stack {
+    border-left: 4px solid;
+    border-image: linear-gradient(yellow, black);
+    border-image-slice: 1;
+}
+#baby {
+    border-left: 5px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+.item {
+    margin: 0 5%;
+    box-shadow: 15px 15px 30px lightgray;
+    background-color: white;
+    padding: 2%;
+}
+.item h4 {
+    color: #FFA500;
+}
