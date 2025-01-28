@@ -66,3 +66,10 @@ body {
 .item h4 {
     color: #FFA500;
 }
+/* Footer section */
+.footer-section {
+    padding: 70px 0 20px 0;
+} 
+.footer-section p {
+    text-align: center;
+}
